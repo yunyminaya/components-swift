@@ -1,5 +1,7 @@
 name: Testing Matrix
 
+permissions:
+  contents: read
 on:
   workflow_dispatch:
   push:
